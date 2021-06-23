@@ -13,7 +13,7 @@ I solved the homework and problems given for the online course ['Using Python fo
 - Part 2: Sequence Objects (Comprehension Check)
 - Part 3: Manipulating Objects (Comprehension Check)
 - Week 1 Homework (Homework)
-#### Week 2: Python Libraries and Concepts Used in Research
+### Week 2: Python Libraries and Concepts Used in Research
 - Week 2 Overview
 - Part 1: Scope Rules and Classes (Comprehension Check)
 - Part 2: NumPy (Comprehension Check)
